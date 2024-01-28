@@ -1,1 +1,3 @@
 *.json
+.neptune
+.DS_Store

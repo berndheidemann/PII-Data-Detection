@@ -2,3 +2,4 @@
 .neptune
 .DS_Store
 *.pt
+*.pth

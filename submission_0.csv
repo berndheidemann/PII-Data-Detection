@@ -1,0 +1,3 @@
+row_id,document,token,token_str,label
+0,7,6,innovation,B-NAME_STUDENT
+1,7,6,innovation,I-NAME_STUDENT
